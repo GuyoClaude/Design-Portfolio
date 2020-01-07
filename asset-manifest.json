@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Graphics-Design-Portfolio/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/Graphics-Design-Portfolio/static/js/main.04bfbe8c.chunk.js",
-    "main.js.map": "/Graphics-Design-Portfolio/static/js/main.04bfbe8c.chunk.js.map",
-    "runtime-main.js": "/Graphics-Design-Portfolio/static/js/runtime-main.513d293c.js",
-    "runtime-main.js.map": "/Graphics-Design-Portfolio/static/js/runtime-main.513d293c.js.map",
-    "static/js/2.2862792b.chunk.js": "/Graphics-Design-Portfolio/static/js/2.2862792b.chunk.js",
-    "static/js/2.2862792b.chunk.js.map": "/Graphics-Design-Portfolio/static/js/2.2862792b.chunk.js.map",
-    "index.html": "/Graphics-Design-Portfolio/index.html",
-    "precache-manifest.81c6004ab69a9f82cad6d08be65cae62.js": "/Graphics-Design-Portfolio/precache-manifest.81c6004ab69a9f82cad6d08be65cae62.js",
-    "service-worker.js": "/Graphics-Design-Portfolio/service-worker.js",
-    "static/css/main.27fd15f6.chunk.css.map": "/Graphics-Design-Portfolio/static/css/main.27fd15f6.chunk.css.map",
-    "static/js/2.2862792b.chunk.js.LICENSE": "/Graphics-Design-Portfolio/static/js/2.2862792b.chunk.js.LICENSE"
+    "main.css": "/Design-Portfolio/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/Design-Portfolio/static/js/main.a4fb2b1d.chunk.js",
+    "main.js.map": "/Design-Portfolio/static/js/main.a4fb2b1d.chunk.js.map",
+    "runtime-main.js": "/Design-Portfolio/static/js/runtime-main.d5593bc6.js",
+    "runtime-main.js.map": "/Design-Portfolio/static/js/runtime-main.d5593bc6.js.map",
+    "static/js/2.2862792b.chunk.js": "/Design-Portfolio/static/js/2.2862792b.chunk.js",
+    "static/js/2.2862792b.chunk.js.map": "/Design-Portfolio/static/js/2.2862792b.chunk.js.map",
+    "index.html": "/Design-Portfolio/index.html",
+    "precache-manifest.be69da906d743c3e4272714c86496e56.js": "/Design-Portfolio/precache-manifest.be69da906d743c3e4272714c86496e56.js",
+    "service-worker.js": "/Design-Portfolio/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/Design-Portfolio/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.2862792b.chunk.js.LICENSE": "/Design-Portfolio/static/js/2.2862792b.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.513d293c.js",
+    "static/js/runtime-main.d5593bc6.js",
     "static/js/2.2862792b.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.04bfbe8c.chunk.js"
+    "static/js/main.a4fb2b1d.chunk.js"
   ]
 }
