@@ -2,7 +2,7 @@
   "name": "design_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GuyoClaude.github.io/Graphics-Design-Portfolio",
+  "homepage": "https://guyoclaude.github.io/Design-Portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
